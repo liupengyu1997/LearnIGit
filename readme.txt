@@ -5,4 +5,4 @@ Git tracks changes.
 Creating a new branch is quick.
 wo zheng zai gai 
 comac modify
-Git test1
+Git test1 and master
